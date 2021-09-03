@@ -8,6 +8,7 @@ Learning course for newbies. I'll add some stuff. I'm bad developer and do stuff
 - Andrew Kaenko: AndrewKaenko
 - Alex Mishenko: AlexMishenko
 - Eduard Valevich: EduardValevich
+- Ivan Lysenko: IvanLsenko
 <!-- example:
 
 - Elon Musk: elonmusk777
